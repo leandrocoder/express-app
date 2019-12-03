@@ -1,0 +1,22 @@
+{
+  "name": "express-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leandrocoder/express-app.git"
+  },
+  "author": "leandrocoder@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leandrocoder/express-app/issues"
+  },
+  "homepage": "https://github.com/leandrocoder/express-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
